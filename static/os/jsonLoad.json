@@ -11,6 +11,9 @@
         ]
     },
     {
+
+        "image": "19E5wkYiVLoF7ZAy1vnGsN81KbTwtSS45/view",
+
         "image": "1fwGiNLQaJfBUA5jiSlb4CW8IqPob7upa",
         "name": "Mohammed Hamid",
         "section": "CSE J",
@@ -31,6 +34,7 @@
             "C++",
             "HTML"
         ]
+
     },
  {
         "image": "1k42FWsaN40sMR0dP7hiyb6tUhir-o8IU",
@@ -62,5 +66,6 @@
         "name": "Anushka Paharia",
         "section": "CSE Core D",
         "college": "Medicaps University",
+
     }
 ]
