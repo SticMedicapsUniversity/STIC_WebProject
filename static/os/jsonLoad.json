@@ -10,4 +10,16 @@
             "HonoJS"
         ]
     }
+    {
+        "image": "1fwGiNLQaJfBUA5jiSlb4CW8IqPob7upa",
+        "name": "Mohammed Hamid",
+        "section": "CSE J",
+        "college": "Medicaps University",
+        "skills": [
+            "HTML",
+            "CSS",
+            "C++",
+            "Data Structures"
+        ]
+    }
 ]
