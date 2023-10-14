@@ -9,5 +9,15 @@
             "svelte",
             "HonoJS"
         ]
+    },
+    {
+        "image": "19E5wkYiVLoF7ZAy1vnGsN81KbTwtSS45/view",
+        "name": "ShubhLabh Shrivastava",
+        "section": "CS AI",
+        "college": "Medicaps University",
+        "skills": [
+            "C++",
+            "HTML"
+        ]
     }
 ]
