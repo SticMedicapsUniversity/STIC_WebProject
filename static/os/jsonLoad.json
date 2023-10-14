@@ -56,6 +56,7 @@
             "svelte",
             "C++"
         ]
+
 },
     {
         "image": "1PsvU3p6axbF2uQKicbY6uCpPo1ARMZ66/view?usp=sharing",
@@ -67,5 +68,13 @@
             "Typescript",
             "NextJs"
         ]
+
+}
+    {
+        "image": "1PsvU3p6axbF2uQKicbY6udCpPo1ARMZ66/view?usp=sharing",
+        "name": "Anushka Paharia",
+        "section": "CSE Core D",
+        "college": "Medicaps University",
+
     }
 ]
