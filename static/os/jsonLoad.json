@@ -56,5 +56,16 @@
             "svelte",
             "C++"
         ]
-}
+},
+    {
+        "image": "1PsvU3p6axbF2uQKicbY6uCpPo1ARMZ66/view?usp=sharing",
+        "name": "Om Chhayala",
+        "section": "IT B",
+        "college": "Medicaps University",
+        "skills": [
+            "MERN",
+            "Typescript",
+            "NextJs"
+        ]
+    }
 ]
