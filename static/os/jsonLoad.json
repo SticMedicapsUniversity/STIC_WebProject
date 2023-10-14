@@ -9,5 +9,17 @@
             "svelte",
             "HonoJS"
         ]
+    },
+    {
+        "image": "1WOLuev_JeDlyMAuOUAwGxQv6p83m51Dc",
+        "name": "Kunal Khandale",
+        "section": "Cs IOT A",
+        "college": "Medicaps University",
+        "skills": [
+            "Frontend Devlopment",
+            "svelte",
+            "C++"
+        ]
+
     }
 ]
