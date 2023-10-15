@@ -80,5 +80,18 @@
         "section": "CSE Core D",
         "college": "Medicaps University",
 
+    },
+    {
+        "image":"1q-f95qDfMqn8wSMlTN1f_Lr4S1L_kr8Y",
+        "name":"Amit Singh Thakur",
+        "section":"IT A",
+        "college":"Medicaps university",
+        "skills": [
+            "NodeJS",
+            "ExpressJS",
+            "React",
+            "MongoDB"
+        ]
+
     }
 ]
