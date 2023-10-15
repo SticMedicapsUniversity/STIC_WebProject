@@ -71,5 +71,16 @@
         "name": "Anushka Paharia",
         "section": "CSE Core D",
         "college": "Medicaps University"
+    },
+    {
+         "image": "1H1eUpeOTx0CBzFWuL3y1IpV1dzw3qXFl",
+        "name": "Piyush Motwani",
+        "section": "IT B",
+        "college": "Medicaps University",
+        "skills": [
+            "Frontend",
+            "Java",
+            "ReactJs"
+        ]  
     }
 ]
