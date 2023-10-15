@@ -2,6 +2,7 @@
 	export let image = 'Google Drive Image';
 	export let name = 'Your Name';
 	export let college = 'You College';
+	export let section = 'Your Section';
 	export let skills = ['your', 'Skills'];
 	function randColor() {
 		var letters = 'BCDEF'.split('');
@@ -23,6 +24,10 @@
 	<p class="p-3">
 		<b>Name: </b>
 		{name}
+	</p>
+	<p class="p-3">
+		<b>Section: </b>
+		{section}
 	</p>
 	<p class="p-3">
 		<b>College: </b>
