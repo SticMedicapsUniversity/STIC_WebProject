@@ -9,6 +9,15 @@
             "svelte",
             "HonoJS"
         ]
+
+        
+    },
+    {
+        "image":"1ytUmiM8Ro4YPXuZSIksK6hZXCp3Y-ha7",
+        "name":"Sujal Dhandre",
+        "section":"CSE CORE",
+        "college":"Medicaps University"
+
     },
     {
         "image": "1fwGiNLQaJfBUA5jiSlb4CW8IqPob7upa",
@@ -71,5 +80,6 @@
         "name": "Anushka Paharia",
         "section": "CSE Core D",
         "college": "Medicaps University"
+
     }
 ]
