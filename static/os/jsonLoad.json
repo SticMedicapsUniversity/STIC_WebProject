@@ -71,5 +71,19 @@
         "name": "Anushka Paharia",
         "section": "CSE Core D",
         "college": "Medicaps University"
-    }
+    },
+    {
+        "image": "1o3DHxefCQp87h1Db4C47jry265Vk4sci",
+        "name": "Akshat Sharma",
+        "section": "CSE Core B",
+        "college": "Medicaps University"
+        "skills": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Node",
+            "Express",
+            "C++"
+        ]
+    }   
 ]
